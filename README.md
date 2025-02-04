@@ -1,5 +1,5 @@
 # Memory_game_in_C++
-
+A pattern-based fun memory game built with C++ and SFML, incorporating fundamental data structure concepts. 
 *How to play*
 • A pattern is generated and displayed on the screen for a short duration.
 • Memorize the sequence before it disappears.
